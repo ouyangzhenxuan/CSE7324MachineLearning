@@ -3,4 +3,4 @@ Compared with spending on housing, food, and travel, medical expenses are also a
 
 This data contains 6 attributes of 1388 people and their medical expenses billed by health insurance. These 6 attributes include gender, age, BMI, children included, smoking status and location. By visualizing this data, we can discover the intrinsic relationship between these attributes and their impact on health care spending. By analyzing the data, the insurance organization can know which kind of people are more likely to generate higher medical expenses, and design a more targeted insurance plan to ensure sufficient profits. The insured can also choose the appropriate insurance plan based on their possible medical expenses.
 
-In summary, our analysis can make insurance institutions and policyholders win-win.
+In summary, our analysis can make insurance institutions and insureds win-win.
