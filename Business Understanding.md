@@ -5,4 +5,7 @@ This data contains 6 attributes of 1388 people and their medical expenses billed
 
 In summary, our analysis can make insurance institutions and insureds win-win.
 
+#### Measure of success
+The goal pursued by each machine learning researcher is to achieve an accuracy rate of 100%. For our predictions of medical expenses, there are many uncontrollable factors that may affect the final results, such as traffic accidents. Therefore, our goal is to keep the prediction in a range of high confidence and accuracy. Within this range, if the predicted value is low, the actual medical expenses may be high, which may have a serious impact on patients and their families. If the predictions is high, the impact on the insured is simply to pay more premiums. Therefore, within the above range, the upper limit of the scope is more meaningful to the insured and the insurance institution.
+
 Data source: https://www.kaggle.com/mirichoi0218/insurance
