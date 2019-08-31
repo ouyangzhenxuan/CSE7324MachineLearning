@@ -1,2 +1,2 @@
 # CSE7324MachineLearning
-## Machine learning course assignments
+## Machine learning course projects
